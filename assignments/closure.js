@@ -28,4 +28,4 @@ const counterFactory = () => {
   // `decrement` should decrement the counter variable and return it.
 };
 
-console.log("********** END OF CLOSURE.JS **********")
+console.log("********** END OF CLOSURE.JS **********");
